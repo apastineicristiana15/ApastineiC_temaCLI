@@ -1,0 +1,39 @@
+1. Ce este viewport-ul?
+
+Viewport-ul reprezintă secțiunea din fereastră unde OpenGL redă scena 2D sau 3D, într-un cadru specific de coordonate.
+
+2. Ce reprezintă conceptul de frames per seconds din punctul de vedere al bibliotecii OpenGL?
+
+În contextul OpenGL, Frames per Second (FPS) indică numărul de cadre procesate și afișate de GPU pe secundă.
+
+3. Când este rulată metoda OnUpdateFrame()?
+
+Metoda OnUpdateFrame() este rulată la fiecare cadru, înainte de randarea efectivă a scenei, pentru a actualiza logica aplicației și a modului în care obiectele din scenă interacționează.
+
+4. Ce este modul imediat de randare?
+
+Este o metodă de desenare utilizată în OpenGL în care comenzile de randare sunt executate direct și imediat.
+
+5. Care este ultima versiune de OpenGL care acceptă modul imediat?
+
+Ultima versiune care acceptă modul imediat este OpenGL 3.2.
+
+6. Când este rulată metoda OnRenderFrame()?
+
+Metoda OnRenderFrame() este rulată la fiecare cadru și este responsabilă pentru randarea efectivă a scenei.
+
+7. De ce este nevoie ca metoda OnResize() să fie executată cel puțin o dată?
+
+Aceasta trebuie executată cel puțin o dată pentru a inițializa corect dimensiunile viewport-ului și perspectivele de vizualizare în concordanță cu dimensiunea ferestrei.
+
+8. Ce reprezintă parametrii metodei CreatePerspectiveFieldOfView() și care este domeniul de valori pentru aceștia?
+
+Metoda CreatePerspectiveFieldOfView() configurează o proiecție de tip perspectivă și are următorii parametrii:
+
+a. Field of View reprezintă unghiul de vedere în plan vertical ce este exprimat în radiani.
+
+b. Aspect Ratio reprezintă raportul între lățimea și înălțimea viewport-ului.
+
+c. Near Clip Plane reprezintă distanța minimă de la camera la care obiectele sunt vizibile.
+
+d. Far Clip Plane reprezintă distanța maximă la care obiectele mai sunt vizibile.
