@@ -1,0 +1,62 @@
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csprojAssemblyReference.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CopyComplete
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csprojAssemblyReference.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CopyComplete
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12_v01\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CoreCompileInputs.cache
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_w.4E92D583.Up2Date
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+D:\Games\Laborator EGC 10-2 (2023-2024)\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CoreCompileInputs.cache
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_w.4E92D583.Up2Date
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+E:\FACULTATE\An3_Sem1\EGC\OpenTK_lab12_v02\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
